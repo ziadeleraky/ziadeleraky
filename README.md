@@ -24,7 +24,9 @@
 <br>
 
 <div align="center">
+  <a href="https://github.com/ziadeleraky">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziadeleraky&theme=radical&hide_border=true"/>
+  </a>
 </div>
 
 <br>
@@ -51,10 +53,12 @@
 
 <details>
  <summary>🏆 <b>Github Profile Trophy</b></summary>
+  
  <br />
+  
  <div align="center">
   <a href="https://github.com/ziadeleraky">
-   <img src="https://github-profile-trophy.vercel.app/?username=ziadeleraky&column=8&theme=darkhub"/>
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=ziadeleraky&column=8&theme=darkhub"/>
   </a>
  </div>
 </details>
