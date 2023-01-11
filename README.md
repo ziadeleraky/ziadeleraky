@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://github.com/ziadeleraky">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziadeleraky&theme=radical&hide_border=true"/>
+   <img align="center" alt="Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=ziadeleraky&theme=radical&hide_border=true"/>
   </a>
 </div>
 
@@ -32,7 +32,7 @@
 
  <div align="center">
   <a href="https://github.com/ziadeleraky">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ziadeleraky&layout=compact&theme=radical&langs_count=6" />
+    <img align="center" alt="Top Languages" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ziadeleraky&layout=compact&theme=radical&langs_count=6" />
   </a>
  </div>
 
@@ -62,7 +62,7 @@
   
  <div align="center">
   <a href="https://github.com/ziadeleraky">
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=ziadeleraky&column=8&theme=darkhub"/>
+   <img align="center" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=ziadeleraky&column=8&theme=darkhub"/>
   </a>
  </div>
 </details>
