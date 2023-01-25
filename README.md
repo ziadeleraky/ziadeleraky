@@ -6,9 +6,12 @@
 <h3 align="center">A passionate Software Developer</h3>
 <img align="right" alt="Responsive" width="450" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
 
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadeleraky&label=Profile%20views&color=0e75b6&style=flat" alt="ziadeleraky" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ziad__eleraky" target="blank"><img src="https://img.shields.io/twitter/follow/ziad__eleraky?logo=twitter&style=for-the-badge" alt="ziad__eleraky" /></a> </p>
+<br>
+
 
 - 🌱 I’m currently learning **React**
 
