@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ziad Eleraky</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 <img align="right" alt="Responsive" width="450" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
 
 <br>
