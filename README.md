@@ -3,7 +3,13 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ziad Eleraky</h1>
-<h3 align="center">Software Engineer</h3>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=F72A99&center=true&vCenter=true&width=435&lines=Software+Developer;MEARN+Stack+Developer)](https://git.io/typing-svg)
+
+</div>
+  
 <img align="right" alt="Responsive" width="450" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
 
 <br>
