@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **MERN Stack Projects**
 
 - 📫 How to reach me **ziadeleraky1@gmail.com**
 
