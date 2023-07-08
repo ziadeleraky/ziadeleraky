@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=F72A99&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Developer)](https://github.com/ziadeleraky/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=F72A99&center=true&vCenter=true&width=435&lines=Software+Developer;Frontend+Developer)](https://github.com/ziadeleraky/)
 
 </div>
   
@@ -18,16 +18,17 @@
 
 <br>
 
-
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **Fullstack Projects**
+  <br/>
 
 - 📫 How to reach me **ziadeleraky1@gmail.com**
 
+  <br/>
+
 - 📄 Know about my experiences [https://www.linkedin.com/in/ziad-eleraky/](https://www.linkedin.com/in/ziad-eleraky/)
 
-<br>
+
 <br>
 <br>
 
@@ -37,11 +38,6 @@
   
   <br>
 
-<div align="center">
-  <a href="https://github.com/ziadeleraky">
-   <img align="center" alt="Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=ziadeleraky&theme=radical&hide_border=true"/>
-  </a>
-</div>
 
 <br>
 
