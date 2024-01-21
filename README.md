@@ -18,10 +18,6 @@
 
 <br>
 
-- 🌱 I’m currently learning **Next.js**
-
-  <br/>
-
 - 📫 How to reach me **ziadeleraky1@gmail.com**
 
   <br/>
@@ -31,6 +27,10 @@
 
 <br>
 <br>
+<br>
+<br>
+<br>
+
 
 <div align="center">
 <a href="https://app.daily.dev/ziadeleraky"><img src="https://api.daily.dev/devcards/f94388fcc3a3485ba8448461be01527f.png?r=0p2" width="300" alt="Ziad Eleraky's Dev Card"/></a>
